@@ -1,0 +1,23 @@
+[
+  {
+    "image": "test (2).jpg",
+    "title": "Ледяной голем",
+    "description": "Медленный, но невероятно выносливый.",
+    "rating": 3.8,
+    "rank": "A"
+  },
+  {
+    "image": "test (3).jpg",
+    "title": "",
+    "description": "",
+    "rating": "",
+    "rank": ""
+  },
+  {
+    "image": "test.jpg",
+    "title": "Огненный дракон",
+    "description": "Мощное существо, способное испепелить всё вокруг.",
+    "rating": 4.5,
+    "rank": "S"
+  }
+]
